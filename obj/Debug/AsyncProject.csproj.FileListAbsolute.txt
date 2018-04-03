@@ -1,0 +1,45 @@
+c:\users\jeremy.greenwood\documents\visual studio 2017\Projects\AsyncProject\AsyncProject\bin\Debug\AsyncProject.exe.config
+c:\users\jeremy.greenwood\documents\visual studio 2017\Projects\AsyncProject\AsyncProject\bin\Debug\AsyncProject.exe
+c:\users\jeremy.greenwood\documents\visual studio 2017\Projects\AsyncProject\AsyncProject\bin\Debug\AsyncProject.pdb
+c:\users\jeremy.greenwood\documents\visual studio 2017\Projects\AsyncProject\AsyncProject\obj\Debug\AsyncProject.csprojResolveAssemblyReference.cache
+c:\users\jeremy.greenwood\documents\visual studio 2017\Projects\AsyncProject\AsyncProject\obj\Debug\MainWindow.g.cs
+c:\users\jeremy.greenwood\documents\visual studio 2017\Projects\AsyncProject\AsyncProject\obj\Debug\App.g.cs
+c:\users\jeremy.greenwood\documents\visual studio 2017\Projects\AsyncProject\AsyncProject\obj\Debug\AsyncProject_MarkupCompile.cache
+c:\users\jeremy.greenwood\documents\visual studio 2017\Projects\AsyncProject\AsyncProject\obj\Debug\AsyncProject_MarkupCompile.lref
+c:\users\jeremy.greenwood\documents\visual studio 2017\Projects\AsyncProject\AsyncProject\obj\Debug\MainWindow.baml
+c:\users\jeremy.greenwood\documents\visual studio 2017\Projects\AsyncProject\AsyncProject\obj\Debug\AsyncProject.g.resources
+c:\users\jeremy.greenwood\documents\visual studio 2017\Projects\AsyncProject\AsyncProject\obj\Debug\AsyncProject.Properties.Resources.resources
+c:\users\jeremy.greenwood\documents\visual studio 2017\Projects\AsyncProject\AsyncProject\obj\Debug\AsyncProject.csproj.GenerateResource.Cache
+c:\users\jeremy.greenwood\documents\visual studio 2017\Projects\AsyncProject\AsyncProject\obj\Debug\AsyncProject.exe
+c:\users\jeremy.greenwood\documents\visual studio 2017\Projects\AsyncProject\AsyncProject\obj\Debug\AsyncProject.pdb
+C:\Users\jeremy.greenwood\documents\visual studio 2017\Projects\AsyncProject\AsyncProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jeremy.greenwood\Documents\async-project\AsyncProject\AsyncProject\bin\Debug\AsyncProject.exe.config
+C:\Users\jeremy.greenwood\Documents\async-project\AsyncProject\AsyncProject\bin\Debug\AsyncProject.exe
+C:\Users\jeremy.greenwood\Documents\async-project\AsyncProject\AsyncProject\bin\Debug\AsyncProject.pdb
+C:\Users\jeremy.greenwood\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\AsyncProject.csprojResolveAssemblyReference.cache
+C:\Users\jeremy.greenwood\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\MainWindow.g.cs
+C:\Users\jeremy.greenwood\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\App.g.cs
+C:\Users\jeremy.greenwood\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jeremy.greenwood\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\AsyncProject_MarkupCompile.cache
+C:\Users\jeremy.greenwood\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\AsyncProject_MarkupCompile.lref
+C:\Users\jeremy.greenwood\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\MainWindow.baml
+C:\Users\jeremy.greenwood\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\AsyncProject.g.resources
+C:\Users\jeremy.greenwood\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\AsyncProject.Properties.Resources.resources
+C:\Users\jeremy.greenwood\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\AsyncProject.csproj.GenerateResource.Cache
+C:\Users\jeremy.greenwood\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\AsyncProject.exe
+C:\Users\jeremy.greenwood\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\AsyncProject.pdb
+C:\Users\Jem\Documents\async-project\AsyncProject\AsyncProject\bin\Debug\AsyncProject.exe.config
+C:\Users\Jem\Documents\async-project\AsyncProject\AsyncProject\bin\Debug\AsyncProject.exe
+C:\Users\Jem\Documents\async-project\AsyncProject\AsyncProject\bin\Debug\AsyncProject.pdb
+C:\Users\Jem\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\AsyncProject.csprojResolveAssemblyReference.cache
+C:\Users\Jem\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\MainWindow.g.cs
+C:\Users\Jem\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\App.g.cs
+C:\Users\Jem\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jem\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\AsyncProject_MarkupCompile.cache
+C:\Users\Jem\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\AsyncProject_MarkupCompile.lref
+C:\Users\Jem\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\MainWindow.baml
+C:\Users\Jem\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\AsyncProject.g.resources
+C:\Users\Jem\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\AsyncProject.Properties.Resources.resources
+C:\Users\Jem\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\AsyncProject.csproj.GenerateResource.Cache
+C:\Users\Jem\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\AsyncProject.exe
+C:\Users\Jem\Documents\async-project\AsyncProject\AsyncProject\obj\Debug\AsyncProject.pdb
